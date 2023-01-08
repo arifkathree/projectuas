@@ -4,6 +4,11 @@ Nama    :   Arifka Tri Ardiansyah</br>
 NIM     :   312210355</br>
 Kelas   :   TI.22.B2</br>
 
+| NO |      DAFTAR ISI      |   LINK    |
+|----|----------------------|-----------|
+| 1  |File PDF              |[Click](https://github.com/arifkathree/projectuas/blob/master/Project%20UAS%20Bahasa%20Pemrograman.pdf)|
+| 2  |Link YouTube          |[Click](https://youtu.be/S7OURKqv5Rk)|
+
 
 # Ketentuan Program
 ![img1](gambar/tugas.png)
